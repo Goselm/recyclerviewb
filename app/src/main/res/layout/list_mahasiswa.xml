@@ -59,7 +59,7 @@
                 android:background="#0000ff"
                 android:text="TI"
                 android:gravity="center"
-                android:textColor="#ffffff"
+                android:textColor="@color/white"
                 android:textSize="25sp"
                 android:textStyle="bold"
                 android:id="@+id/jpTextView"/>
