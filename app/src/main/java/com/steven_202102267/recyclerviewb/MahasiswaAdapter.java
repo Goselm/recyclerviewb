@@ -1,5 +1,4 @@
 package com.steven_202102267.recyclerviewb;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;

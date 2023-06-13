@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
 
         _recyclerView1 = (RecyclerView) findViewById(R.id.recyclerView1);
 
-
         initAddButton();
     }
 
