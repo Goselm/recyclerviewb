@@ -1,5 +1,4 @@
 package com.steven_202102267.recyclerviewb;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.AlertDialog;
@@ -47,7 +46,6 @@ public class AddMahasiswaActivity extends AppCompatActivity {
                 String tahunMasuk = _tahunMasukEditText.getText().toString();
                 String tanggalLahir = _tanggalLahirEditText.getText().toString();
                 String tempatLahir = _tempatLahirEditText.getText().toString();
-
                 try{
                     alamat = URLEncoder.encode(alamat, "utf-8");
                     jenisKelamin = URLEncoder.encode(jenisKelamin, "utf-8");
